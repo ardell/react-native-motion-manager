@@ -18,11 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "github.com:pwmckenna/react-native-motion-manager.git"
+    "url": "github.com:ardell/react-native-motion-manager.git"
   },
   "author": "Patrick Williams <pwmckenna@gmail.com> (http://pwmckenna.com/)",
   "contributors": [
-    "Brent Vatne <brentvatne@gmail.com>"
+    "Brent Vatne <brentvatne@gmail.com>",
+    "Jason Ardell <ardell@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
